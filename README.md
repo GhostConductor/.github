@@ -1,0 +1,1 @@
+![Ghost Conductor - AI Agent Orchestration](gc_hero.png)
