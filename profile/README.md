@@ -8,4 +8,4 @@ Support for Anthropic, OpenAI, and Google models. Bring your own API keys and mo
 - [ghostconductor](https://github.com/GhostConductor/ghostconductor) — run agents on your local machine
   - Install via Homebrew: `brew tap ghostconductor/ghostconductor && brew install ghostconductor`
   - Or download the [latest release](https://github.com/GhostConductor/ghostconductor/releases/latest)
-- [gc-ghost](https://github.com/GhostConductor/gc-ghost) — the agent runtime
+- [ghost](https://github.com/GhostConductor/ghost) — the agent runtime
